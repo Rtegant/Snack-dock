@@ -10,7 +10,7 @@ With these two modules, you can adjust the thickness of your Snack-dock.
 
 Here is my recipe:
 
-Thickness of each acrylic panel: 5T
+Thickness of each acrylic panel: 5mm
 Number of palm rest panels: 3 (15mm is the perfect fit for the Snack box!)
 Number of platform panels: 2
 
